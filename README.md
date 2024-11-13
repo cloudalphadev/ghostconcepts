@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and cloud development
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking to collaborate on development operations
-- 📫 How to reach me info@webcloudalpha.com
+- 📫 How to reach me info@cloudalpha.cloud
 
 <!---
 ghostconcepts/ghostconcepts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
