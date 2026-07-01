@@ -98,8 +98,7 @@ Visual samples live under `assets/img/portfolio/` and are referenced directly in
 | | |
 |---|---|
 | **Address** | Nairobi, Kenya, 00100 |
-| **Phone** | +254 723 519 776 |
-| **Email** | georgekaka@outlook.com |
+| **Email** | kaka@cloudalpha.co.ke |
 | **Site** | [cloudalpha.co.ke](https://cloudalpha.co.ke/) |
 
 ---
